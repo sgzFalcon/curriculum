@@ -1320,6 +1320,8 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Cameron Smith's Solution (Easy)](https://github.com/cameronzsmith/google-homepage/) - [View in Browser](https://cameronzsmith.github.io/google-homepage/)
 * [Mark Romero's Solution (Easy)](https://github.com/mromero1591/google-homepage) - [View in Browser](https://mromero1591.github.io/google-homepage/)
 * [Eduardo Massarani's Solution (Easy)](https://github.com/edmassarani/the-odin-project/tree/master/google-homepage) - [View in Browser](https://edmassarani.github.io/the-odin-project/google-homepage/)
+* [Sergio Falcon's Solution (Easy)](https://github.com/sgzFalcon/google-homepage) - [View in Browser](https://codepen.io/sgzFalcon/pen/ppWKYq)
+
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
